@@ -1,45 +1,38 @@
-form {
-  display: flex;
-  flex-direction: column;
-  max-width: 600px;
-  margin: 20px auto;
-  padding: 20px;
-  border: 1px solid #ccc;
-  border-radius: 8px;
-  background-color: #f9f9f9;
+/* Ensure the container centers the content */
+main {
 }
 
-label {
-  margin-top: 10px;
-  font-weight: bold;
-}
-
-input, textarea, button {
-  margin-top: 5px;
-  padding: 10px;
-  font-size: 16px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  width: 100%;
-}
-
-button {
-  margin-top: 20px;
-  padding: 10px 20px;
-  background-color: #4CAF50;
-  color: white;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-  font-size: 16px;
+/* Ensure the container centers the content */
+.container.centered {
+  max-width: 800px;
+  margin: 0 auto;
   text-align: center;
 }
 
-button:hover {
-  background-color: #45a049;
+/* Style for the "What I Do" section */
+.what-i-do-section {
+  margin-left: 100px; /* Add space between the about and what-i-do sections */
+  padding: 20px;
+  border-radius: 8px;
+  text-align: left; /* Align text to the left */
 }
 
-input:focus, textarea:focus {
-  border-color: #4CAF50;
-  outline: none;
+/* Ensure headings in the what-i-do section are styled properly */
+.what-i-do-section h2 {
+  font-size: 1.5em;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+/* Style the lists */
+.what-i-do-section ul {
+  list-style-type: disc;
+  padding-left: 40px;
+  max-width: 600px;
+  margin: 0 auto; /* Center the lists */
+  text-align: left;
+}
+
+.what-i-do-section ul li {
+  margin-bottom: 10px;
 }

@@ -3,26 +3,43 @@ title = "PivotMario"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
-
-paginate = 20
+enableEmoji = true
+paginate = 6
 
 [services]
 [services.disqus]
-disqusShortname = "yourdiscussshortname"
+# Enable Disqus comments
+# shortname = "yourdiscussshortname"
 
 [markup.highlight]
-style = "github-dark"
-
-[markup.goldmark.renderer]
-unsafe= true
+noClasses = false
 
 [params]
   author = "Mario André"
-  info = "Business Analyst and Magician"
-  description = "John Doe's personal website"
-  keywords = "blog,developer,personal"
+  info = ["Business Analyst", "Creator"]
+  description = "Mario Andrés personal website"
+  keywords = "blog,businessanalyst,personal"
   avatarurl = "images/avatar.jpg"
   #gravatar = "john.doe@example.com"
+  dateFormat = "January 2, 2006"
+
+  # Git Commit in Footer, uncomment the line below to enable it
+  commit = "https://github.com/luizdepra/hugo-coder/tree/"
+
+  # Right To Left, shift content direction for languages such as Arabic
+  rtl = false
+
+  # Specify light/dark colorscheme
+  # Supported values:
+  # "auto" (use preference set by browser)
+  # "dark" (dark background, light foreground)
+  # "light" (light background, dark foreground) (default)
+
+  # Hide the toggle button, along with the associated vertical divider
+  hideColorSchemeToggle = false
+
+  # Series see also post count
+  maxSeeAlsoItems = 5
 
   faviconSVG = "/img/favicon.svg"
   favicon_32 = "/img/favicon-32x32.png"
@@ -35,7 +52,8 @@ unsafe= true
   colorScheme = "auto"
   hidecolorschemetoggle = false
 
-  # customCSS = ["css/custom.css"]
+  # Custom CSS
+  customCSS = []
   # customSCSS = ["scss/custom.scss"]
   # customJS = ["js/custom.js"]
 
@@ -61,7 +79,11 @@ unsafe= true
 
 # Menu links
 [[menu.main]]
-  name = "CV"
+  name = "About Me"
   weight = 1
-  url = "resume/"
- 
+  url = "about-me/"
+
+ [[menu.main]]
+name = "Resume"
+url = "/pdf/CV.pdf"
+weight = 2
