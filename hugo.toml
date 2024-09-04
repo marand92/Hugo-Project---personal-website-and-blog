@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com"
+baseurl = "https://www.pivotmario.tech"
 title = "PivotMario"
 theme = "hugo-coder"
 languagecode = "en"
@@ -15,9 +15,9 @@ paginate = 6
 noClasses = false
 
 [params]
-  author = "Mario André"
+  author = "Mario"
   info = ["Business Analyst", "Creator"]
-  description = "Mario Andrés personal website"
+  description = "Mario André, business analyst website"
   keywords = "blog,businessanalyst,personal"
   avatarurl = "images/avatar.jpg"
   #gravatar = "john.doe@example.com"
@@ -45,7 +45,7 @@ noClasses = false
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
-  since = 2023
+  since = 2019
 
   enableTwemoji = true
 
@@ -87,3 +87,8 @@ noClasses = false
 name = "Resume"
 url = "/pdf/CV.pdf"
 weight = 2
+
+ [[menu.main]]
+name = "Track-record"
+url = "track-record/"
+weight = 3

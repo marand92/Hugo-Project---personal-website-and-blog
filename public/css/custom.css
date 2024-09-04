@@ -1,20 +1,18 @@
 /* Ensure the container centers the content */
-main {
-}
-
-/* Ensure the container centers the content */
 .container.centered {
   max-width: 800px;
   margin: 0 auto;
+  display: flex;            /* Use flexbox for layout */
+  flex-direction: row;       /* Items will be aligned side by side initially */
+  justify-content: space-between;
   text-align: center;
 }
 
 /* Style for the "What I Do" section */
 .what-i-do-section {
-  margin-left: 100px; /* Add space between the about and what-i-do sections */
   padding: 20px;
   border-radius: 8px;
-  text-align: left; /* Align text to the left */
+  text-align: left;
 }
 
 /* Ensure headings in the what-i-do section are styled properly */
@@ -36,3 +34,80 @@ main {
 .what-i-do-section ul li {
   margin-bottom: 10px;
 }
+
+/* Media query to handle smaller screens */
+@media (max-width: 768px) {
+  /* Changing flex direction to column for stacking elements vertically */
+  .container.centered {
+    flex-direction: column;    /* Stack the elements vertically */
+    align-items: center;       /* Center the content */
+  }
+
+  .what-i-do-section {
+    margin-top: 30px;         /* Add space above the section */
+    text-align: center;
+    width: 100%;              /* Take full width on smaller screens */
+  }
+
+  .what-i-do-section ul {
+    padding-left: 0;           /* Adjust padding for smaller screens */
+    max-width: 100%;           /* Make sure the list uses the full width */
+    margin: 0 auto;            /* Center the lists */
+    text-align: left;
+  }
+
+  /* Add space between the about and what-i-do sections */
+  .about {
+    margin-bottom: 30px;       /* Add more space below the avatar section */
+  }
+}
+
+/* track record link info icon styling */
+
+.info-icon {
+  text-decoration: none;
+  font-size: 1em; /* Smaller size for the icon */
+  font-weight: bold;
+  vertical-align: super; /* Superscript position */
+  margin-left: 5px; /* Adds space between the list item and the icon */
+  cursor: pointer; /* Shows a pointer cursor on hover */
+  
+  /* Circle styling */
+  display: inline-flex; /* Allows for better centering of the icon */
+  justify-content: center; /* Horizontally centers the icon */
+  align-items: center; /* Vertically centers the icon */
+  width: 15px; /* Smaller circle */
+  height: 15px; /* Smaller circle */
+  border: 1px solid #26547c; /* Adds a thin blue border */
+  border-radius: 50%; /* Creates the circular shape */
+  color: #26547c; /* Color of the info icon */
+}
+
+/* Tooltip on hover */
+.info-icon:hover::after {
+  content: "Click to jump to my track record"; /* Text shown on hover */
+  position: absolute;
+  background-color: #333;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 0.8em;
+  white-space: nowrap;
+  margin-top: -10px; /* Adjusts hover tooltip positioning */
+}
+
+/* style finger heart for footer */
+
+.svg-fingerheart-icon {
+  margin-left: 5px; /* Adds space between the author name and the SVG */
+  display: inline-block; /* Ensures the SVG behaves like inline content */
+  vertical-align: middle; /* Aligns the icon vertically with the text */
+}
+
+.svg-fingerheart-icon img {
+  width: 2em; /* Matches the size of the icon to the text size */
+  height: 2em; /* Ensures the icon is a perfect square */
+  vertical-align: middle; /* Aligns the SVG vertically with the text */
+}
+
+

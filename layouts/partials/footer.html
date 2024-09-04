@@ -1,0 +1,23 @@
+<footer class="footer">
+  <section class="container">
+    
+    {{ if (and .Site.Params.since (lt .Site.Params.since now.Year)) }}
+      {{ .Site.Params.since }} -
+    {{ end }}
+    {{ now.Year }}
+    <!-- Reference the fingerheart SVG -->
+    <span class="svg-fingerheart-icon">
+      <img src="{{ "images/fingerheart.svg" | relURL }}" alt="finger heart icon" width="40" height="40">
+    </span>
+    <!-- Replace author name with "by me" -->
+    <span>by me</span>
+  
+    {{ if (and .Site.Params.license) }}
+      {{ i18n "licensed_under" }} {{ .Site.Params.license | safeHTML }}
+    {{ end }}
+    {{ i18n "" }} <a href="" target="_blank" rel="noopener"></a><a href="" target="_blank" rel="noopener"></a>
+    {{ if (and .Site.Params.commit .GitInfo) }}
+      [<a href="{{ .Site.Params.commit }}/{{ .GitInfo.Hash }}" target="_blank" rel="noopener">{{ .GitInfo.AbbreviatedHash }}</a>]
+    {{ end }}
+  </section>
+</footer>
