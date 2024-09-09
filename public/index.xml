@@ -6,21 +6,21 @@
     <description>Recent content on PivotMario</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Aug 2024 15:53:57 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 12:00:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Track Record</title>
+      <link>http://localhost:1313/track-record/</link>
+      <pubDate>Wed, 04 Sep 2024 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/track-record/</guid>
+      <description>Legacy System Revamp at 50Hertz&#xD;Link to heading&#xD;At 50Hertz, the transmission system operator, I am involved in transforming a legacy accounting platform that managed critical energy settlement processes. Their system is 90s code, largely undocumented, and based on outdated Java, posing several challenges:&#xA;The system was a black box—users had no visibility into the processes and calculations, implemented in the 30+ years of usage Team inefficiencies and hierarchical structures hindered progress, a poor feedback process and resentment towards the lead of the team Solution: We introduced automated process modeling using Neo4J, which allowed us to visualize previously hidden database relationships.</description>
+    </item>
     <item>
       <title>About Me</title>
       <link>http://localhost:1313/about-me/</link>
       <pubDate>Thu, 22 Aug 2024 15:53:57 +0200</pubDate>
       <guid>http://localhost:1313/about-me/</guid>
-      <description>About Me&#xD;Link to heading&#xD;Hello! I&amp;rsquo;m Mario André, a passionate and enthusiastic business analyst currently making waves at 50Hertz, one of Germany&amp;rsquo;s key transmission system operators. My journey in the world of business analysis and process optimization has been nothing short of exciting, and I&amp;rsquo;m thrilled to share a bit about my professional story with you.&#xA;My Role at 50Hertz&#xD;Link to heading&#xD;At 50Hertz, I have the privilege of working with a dynamic, eight-member software development team where we&amp;rsquo;re on a mission to transform the way we manage energy accounting and settlement processes.</description>
-    </item>
-    <item>
-      <title>Track Record</title>
-      <link>http://localhost:1313/track-record/</link>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/track-record/</guid>
-      <description>My Project Track Record&#xD;Link to heading&#xD;Throughout my career, I have successfully delivered large-scale, high-impact projects. Below are some key projects that showcase my expertise and the results I have driven.&#xA;SAP Implementation at LEIPA Group&#xD;Link to heading&#xD;Role: Subproject Manager for Logistics and Warehousing&#xA;Duration: 1 Year&#xA;Result: Project completed without production stop, full Go-Live on time&#xA;Conducted comprehensive legacy analysis and identified process inefficiencies. Enhanced automated reporting for shift managers, providing real-time data.</description>
+      <description>About Me&#xD;Link to heading&#xD;Hello! I&amp;rsquo;m Mario, a passionate and enthusiastic business process specialist currently working for 50Hertz, one of Germany&amp;rsquo;s energy grid operators. My journey in the world of business analysis and process optimization has been full of twists and to me is a journey of continuied learning from and for the purpose.&#xA;My Role at 50Hertz&#xD;Link to heading&#xD;At my current role as a Business Analyst in a eight-head software dev team, where we&amp;rsquo;re on a mission to transform the way we manage energy grid settlement.</description>
     </item>
     <item>
       <title></title>

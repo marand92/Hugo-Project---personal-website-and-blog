@@ -54,7 +54,7 @@ noClasses = false
 
   # Custom CSS
   customCSS = []
-  # customSCSS = ["scss/custom.scss"]
+  customSCSS = []
   # customJS = ["js/custom.js"]
 
 [taxonomies]

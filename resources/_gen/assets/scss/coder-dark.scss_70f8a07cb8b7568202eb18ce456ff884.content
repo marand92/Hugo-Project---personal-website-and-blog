@@ -268,9 +268,16 @@ body.colorscheme-dark .taxonomy-element {
 body.colorscheme-dark .footer a {
   color: #42a5f5; }
 
+body.colorscheme-dark .footer .invertable-image {
+  filter: invert(1);
+  transition: filter 0.3s ease; }
+
 @media (prefers-color-scheme: dark) {
   body.colorscheme-auto .footer a {
-    color: #42a5f5; } }
+    color: #42a5f5; }
+  body.colorscheme-auto .footer .invertable-image {
+    filter: invert(1);
+    transition: filter 0.3s ease; } }
 
 body.colorscheme-dark .float-container a {
   color: #dadada;
