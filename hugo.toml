@@ -55,7 +55,7 @@ noClasses = false
   # Custom CSS
   customCSS = []
   customSCSS = []
-  # customJS = ["js/custom.js"]
+  customJS = ["js/custom.js"]
 
 [taxonomies]
   category = "categories"
@@ -78,17 +78,20 @@ noClasses = false
 
 
 # Menu links
+# [[menu.main]]
+#  name = "About Me"
+#  weight = 1
+#  url = "about-me/"
+
 [[menu.main]]
-  name = "About Me"
-  weight = 1
-  url = "about-me/"
+  name = "Resume"
+  url = "#"
+  weight = 2
+  identifier = "resume-link"
+  [menu.main.params]
+    custom_attribute = "resume-link"
 
- [[menu.main]]
-name = "Resume"
-url = "/pdf/CV.pdf"
-weight = 2
-
- [[menu.main]]
-name = "Track-record"
-url = "track-record/"
-weight = 3
+[[menu.main]]
+  name = "Track-record"
+  url = "track-record/"
+  weight = 3

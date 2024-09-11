@@ -5,7 +5,6 @@ title = "About Me"
 slug = "about-me" 
 +++
 
-## About Me
 
 Hello! I'm Mario, a passionate and enthusiastic business process specialist currently working for 50Hertz, one of Germany's energy grid operators. My journey in the world of business analysis and process optimization has been full of twists and to me is a journey of continuied learning from and for the purpose.
 

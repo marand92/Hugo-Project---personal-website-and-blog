@@ -14,8 +14,8 @@
         {{ with .Site.Menus.main}}
           {{ range sort . }}
             <li class="navigation-item">
-              {{ if eq .Name "Resume" }}
-                <a class="navigation-link {{ .Params.class }}" href="{{ index (apply (slice .URL) (.Params.urlFunc | default "relLangURL") ".") 0 }}" target="_blank">{{ .Name }}</a>
+              {{ if eq .Identifier "resume-link" }}
+                <a class="navigation-link resume-link" href="#" data-href="{{ .URL }}">{{ .Name }}</a>
               {{ else }}
                 <a class="navigation-link {{ .Params.class }}" href="{{ index (apply (slice .URL) (.Params.urlFunc | default "relLangURL") ".") 0 }}">{{ .Name }}</a>
               {{ end }}
