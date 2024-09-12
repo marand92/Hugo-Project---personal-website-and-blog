@@ -35,18 +35,18 @@ We redefined the system to ensure a high likelihood of factory entry within a bo
 - **15-minute reduction** in lead time per truck.
 - Increased transparency and fairness in truck handling, with a reward system for punctuality.
 
-This project demonstrated the critical difference between simply implementing software and **leveraging the full potential** implementing an actually smart customization to the standard to deliver tangible operational improvements.
+This project, to me, demonstrated the critical difference between simply implementing software and **leveraging the full potential** implementing an actually smart customization to the standard to deliver tangible operational improvements.
 
 ---
 
 
 ## SAP Implementation at LEIPA Group
 
-As the subproject manager for the **logistics and warehousing component** of the SAP Procurement implementation at LEIPA Group's Schwedt factory, my role was pivotal in ensuring the project's success. The implementation followed a structured approach:
+As the subproject manager for the **logistics and warehousing component** of the SAP Procurement implementation at LEIPA Group's Schwedt factory, my role was crucial in ensuring the project's success. The implementation followed a structured approach:
 
 1. **Blueprinting Phase**: We conducted a comprehensive **legacy analysis** to assess the wide range of tools and historically developed processes in use. Many of these legacy systems were inefficient and uncoordinated, making this step critical for shaping a streamlined solution.
    
-2. **Customizing Phase**: We identified several **quick-win improvements**. Notably, we enhanced **automated reporting** for key ramp shift managers, providing them with real-time data for more informed decision-making. Additionally, we developed a **three-day procurement forecasting tool** to better predict production and material capacity needs. This tool fostered better coordination across departments, eliminating misaligned forecasts.
+2. **Customizing Phase**: We identified several **quick-win improvements**. Notably, we enhanced **automated reporting** for key ramp shift managers, providing them with real-time data for more informed decision-making. Additionally, we developed a **three-day procurement forecasting tool** to better predict production and material capacity needs. This tool allowed for a better coordination across departments, eliminating misaligned forecasts.
    
 **Key Achievement**: Despite the resignation of the previous subproject manager, who believed meeting the deadline wasn´t anymore impossible, I took over and led the team consiting of five internal stakeholders, three external consultants and two SAP programmers to not only meet the deadline but also achieve an **almost smooth Go-Live phase** without a high-impact production stop. This accomplishment showcased the strength of our collaboration.
 

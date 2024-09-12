@@ -17,7 +17,7 @@ noClasses = false
 [params]
   author = "Mario"
   info = ["Business Analyst", "Creator"]
-  description = "Mario André, business analyst website"
+  description = "Mario André, business analyst"
   keywords = "Business Analyst, Freelancer, Agile Methodology, Domain-Driven Design, Scrum Master, Product Owner, Software Architecture, Microservices, Continuous Integration, API Development, Event-Driven Architecture"
   avatarurl = "images/mario_avatar.webp"
   #gravatar = "john.doe@example.com"
