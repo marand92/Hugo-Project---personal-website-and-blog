@@ -24,11 +24,11 @@ Over a period of 1.5 years at LEIPA, I led a project to overhaul an inefficient 
 
 **Initial Issues**:
 - The timeslot system was disconnected from real-time truck data.
-- There was no feedback loop to adjust for delays, early arrivals or no-shows.- 
+- There was no feedback loop to adjust for delays, early arrivals or no-shows.
 - The system lacked prioritization based on punctuality or demand peaks.
 
 **Solution**:
-We redefined the system to ensure a high likelihood of factory entry within a booked slot, based on truck arrival times. I led a team of external developers to build a backend system, integrate with the yard management frontend, and develop a **mobile app** for truck drivers. We incorporated real-time data, including truck arrival history, geofencing, and capacity predictions, to create a **dynamic timeslot shifting algorithm**.
+We redefined the system to ensure a high likelihood of factory entry within a booked slot, based on truck arrival times. I led a team of external developers to build a backend system, integrated with the yard management frontend, and developed a **mobile app** for truck drivers. We incorporated real-time data, including truck arrival history, geofencing, and capacity predictions, to create a **dynamic timeslot shifting algorithm**.
 
 **Outcome**:
 - The new system provided truck drivers with real-time updates on their queue position and remaining wait time through the app. (!) A huge change for waiting drivers, who could now shower & pee while waiting, conveniently seeing their remaining waiting time on the phone, anywhere around the parking lots.
@@ -48,6 +48,6 @@ As the subproject manager for the **logistics and warehousing component** of the
    
 2. **Customizing Phase**: We identified several **quick-win improvements**. Notably, we enhanced **automated reporting** for key ramp shift managers, providing them with real-time data for more informed decision-making. Additionally, we developed a **three-day procurement forecasting tool** to better predict production and material capacity needs. This tool fostered better coordination across departments, eliminating misaligned forecasts.
    
-**Key Achievement**: Despite the resignation of the previous subproject manager, who believed meeting the deadline wasn´t anymore impossible, I took over and led the team consiting of five internal stakeholders, three external consultands and two sap programmers to not only meet the deadline but also achieve an **almost smooth Go-Live phase** without a high-impact production stop. This accomplishment showcased the strength of our collaboration.
+**Key Achievement**: Despite the resignation of the previous subproject manager, who believed meeting the deadline wasn´t anymore impossible, I took over and led the team consiting of five internal stakeholders, three external consultants and two SAP programmers to not only meet the deadline but also achieve an **almost smooth Go-Live phase** without a high-impact production stop. This accomplishment showcased the strength of our collaboration.
 
 ---
