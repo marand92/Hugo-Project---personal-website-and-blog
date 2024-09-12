@@ -92,6 +92,6 @@ noClasses = false
     custom_attribute = "resume-link"
 
 [[menu.main]]
-  name = "Track-record"
+  name = "Track record"
   url = "track-record/"
   weight = 3
