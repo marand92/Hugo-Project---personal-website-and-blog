@@ -49,7 +49,7 @@ noClasses = false
 
   enableTwemoji = true
 
-  colorScheme = "auto"
+  colorScheme = "dark"
   hidecolorschemetoggle = false
 
   # Custom CSS
