@@ -18,8 +18,8 @@ noClasses = false
   author = "Mario"
   info = ["Business Analyst", "Creator"]
   description = "Mario André, business analyst website"
-  keywords = "blog,businessanalyst,personal"
-  avatarurl = "images/avatar.jpg"
+  keywords = "Business Analyst, Freelancer, Agile Methodology, Domain-Driven Design, Scrum Master, Product Owner, Software Architecture, Microservices, Continuous Integration, API Development, Event-Driven Architecture"
+  avatarurl = "images/mario_avatar.webp"
   #gravatar = "john.doe@example.com"
   dateFormat = "January 2, 2006"
 
@@ -53,7 +53,7 @@ noClasses = false
   hidecolorschemetoggle = false
 
   # Custom CSS
-  customCSS = []
+  customCSS = ["css/custom.css"]
   customSCSS = []
   customJS = ["js/custom.js"]
 

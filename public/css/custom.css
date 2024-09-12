@@ -1,3 +1,9 @@
+/* test if custom css is loaded 
+body {
+  background-color: red;
+}
+*/
+
 /* Ensure the container centers the content */
 .container.centered {
   max-width: 800px;
@@ -44,7 +50,7 @@
   }
 
   .what-i-do-section {
-    margin-top: 30px;         /* Add space above the section */
+    margin-top: 5px;         /* Add space above the section */
     text-align: center;
     width: 100%;              /* Take full width on smaller screens */
   }
@@ -58,7 +64,7 @@
 
   /* Add space between the about and what-i-do sections */
   .about {
-    margin-bottom: 30px;       /* Add more space below the avatar section */
+    margin-bottom: 0px;       /* Add more space below the avatar section */
   }
 }
 
