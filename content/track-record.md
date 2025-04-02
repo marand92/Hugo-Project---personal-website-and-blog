@@ -5,7 +5,7 @@ draft = false
 +++
 
 ## 50Hertz – Building the Next-Gen Settlement Tool
-At 50Hertz, one of Germany’s transmission system operators, I’m part of a team building a **modern accounting tool** to gradually replace an outdated legacy system that’s been running core energy settlement processes for over 30 years. The existing platform is still in operation, maintained by a separate team, but after an in-depth analysis of the codebase and team structure, we concluded that refactoring the legacy system wasn’t viable — poor code quality, outdated tech, and dysfunctional team dynamics made it a dead end.
+At 50Hertz, one of Germany’s four energy-grid-transmission system operators, I’m part of a team building a **modern accounting tool** to gradually replace an outdated legacy system that’s been running core energy settlement processes for over 30 years. The existing platform is still in operation, maintained by a separate team, but after an in-depth analysis of the codebase and team structure, we concluded that refactoring the legacy system wasn’t viable — poor code quality, outdated tech, and dysfunctional team dynamics made it a dead end.
 
 **Solution**:  
 Together with a senior software engineer, I kicked off the initiative and laid the foundation for what is now a **cross-functional team of seven**: three internal developers, a product owner, a software architect, and (starting April 2025) a junior developer. We're also supported by an external UX designer.
