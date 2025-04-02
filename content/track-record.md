@@ -4,19 +4,26 @@ date = 2024-09-04T12:00:00+02:00
 draft = false
 +++
 
-## Legacy System Revamp at 50Hertz
-At 50Hertz, the transmission system operator, I am involved in **transforming a legacy accounting platform** that managed critical energy settlement processes. Their system is 90s code, largely undocumented, and based on outdated Java, posing several challenges:
+## 50Hertz – Building the Next-Gen Settlement Tool
+At 50Hertz, one of Germany’s transmission system operators, I’m part of a team building a **modern accounting tool** to gradually replace an outdated legacy system that’s been running core energy settlement processes for over 30 years. The existing platform is still in operation, maintained by a separate team, but after an in-depth analysis of the codebase and team structure, we concluded that refactoring the legacy system wasn’t viable — poor code quality, outdated tech, and dysfunctional team dynamics made it a dead end.
 
-- The system was a **black box**—users had no visibility into the processes and calculations, implemented in the 30+ years of usage
-- Team inefficiencies and hierarchical structures hindered progress, a poor feedback process and resentment towards the lead of the team
+**Solution**:  
+Together with a senior software engineer, I kicked off the initiative and laid the foundation for what is now a **cross-functional team of seven**: three internal developers, a product owner, a software architect, and (starting April 2025) a junior developer. We're also supported by an external UX designer.
 
-**Solution**:
-We introduced **automated process modeling** using Neo4J, which allowed us to visualize previously hidden database relationships. This tool helped us identify and streamline legacy processes, cut out deprecated parts, and surface inefficiencies.
+We began with a particularly complex **settlement process** that became the core of our MVP. The MVP has since gone live and proven itself in real usage, allowing us to **extend the platform incrementally** — process by process — and gradually replace the legacy system in a sustainable and validated way.
 
-**Outcome**:
-Based on these insights, management tasked me and a colleague with forming a new **cross-functional team** to build an MVP for a new accounting tool, later onboarding our new PO, and three other internal developers. We are on track to deliver this MVP ahead of the October 1st 2024 deadline, improving both user experience and system efficiency. This project not only improved internal processes but also demonstrated the **feasibility of modernizing** an essential, long-standing system to modern industry standards.
+**Outcome**:  
+- The MVP successfully launched and is now being extended to additional processes
+- One of the first truly agile teams within the organization, with strong ownership and team spirit
+- Clear roles, high trust, and fast decision-making lead to exceptional team efficiency
 
-Throughout the project, I learned invaluable lessons in **conflict management**, **rapid decision-making**, and **adapting to complex organizational dynamics**. It reinforced my belief in using modern, agile approaches to transform even the most challenging legacy systems.
+My role has been central across all stages:
+- Identifying the initial use case and mapping it into a usable process model
+- Supporting early product decisions using insights from key users and the legacy platform
+- Avoiding repeat mistakes by deeply understanding how the old system evolved
+
+The project is ongoing and expected to run for at least **two more years**, depending on the traction we maintain.
+
 
 ---
 ## Time-Slot Management App at LEIPA Group

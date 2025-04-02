@@ -13,7 +13,7 @@
       <link>http://localhost:1313/track-record/</link>
       <pubDate>Wed, 04 Sep 2024 12:00:00 +0200</pubDate>
       <guid>http://localhost:1313/track-record/</guid>
-      <description>Legacy System Revamp at 50Hertz&#xD;Link to heading&#xD;At 50Hertz, the transmission system operator, I am involved in transforming a legacy accounting platform that managed critical energy settlement processes. Their system is 90s code, largely undocumented, and based on outdated Java, posing several challenges:&#xA;The system was a black box—users had no visibility into the processes and calculations, implemented in the 30+ years of usage Team inefficiencies and hierarchical structures hindered progress, a poor feedback process and resentment towards the lead of the team Solution: We introduced automated process modeling using Neo4J, which allowed us to visualize previously hidden database relationships.</description>
+      <description>50Hertz – Building the Next-Gen Settlement Tool&#xD;Link to heading&#xD;At 50Hertz, one of Germany’s transmission system operators, I’m part of a team building a modern accounting tool to gradually replace an outdated legacy system that’s been running core energy settlement processes for over 30 years. The existing platform is still in operation, maintained by a separate team, but after an in-depth analysis of the codebase and team structure, we concluded that refactoring the legacy system wasn’t viable — poor code quality, outdated tech, and dysfunctional team dynamics made it a dead end.</description>
     </item>
     <item>
       <title>Contact Me</title>
