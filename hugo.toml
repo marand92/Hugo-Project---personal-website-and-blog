@@ -75,7 +75,11 @@ noClasses = false
   icon = "fa-brands fa-github fa-2x"
   weight = 2
   url = "https://github.com/marand92"
-
+[[params.social]]
+  name = "Telegram"
+  icon = "fa-brands fa-telegram fa-2x"
+  url = "https://t.me/marioman92"
+  weight = 3
 
 # Menu links
 # [[menu.main]]

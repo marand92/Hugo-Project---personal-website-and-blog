@@ -121,10 +121,9 @@ body {
   transition: filter 0.5s ease;
 }
 
-/* Invert the image in dark mode */
-@media (prefers-color-scheme: dark) {
-  .invertable-image {
-    filter: invert(1);
-  }
+/* Invert the image when the page is in dark mode via the class */
+.colorscheme-dark .invertable-image {
+  filter: invert(1);
 }
+
 

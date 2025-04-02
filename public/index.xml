@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PivotMario</title>
-    <link>https://www.pivotmario.tech/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on PivotMario</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 04 Sep 2024 12:00:00 +0200</lastBuildDate>
-    <atom:link href="https://www.pivotmario.tech/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Track Record</title>
-      <link>https://www.pivotmario.tech/track-record/</link>
+      <link>http://localhost:1313/track-record/</link>
       <pubDate>Wed, 04 Sep 2024 12:00:00 +0200</pubDate>
-      <guid>https://www.pivotmario.tech/track-record/</guid>
+      <guid>http://localhost:1313/track-record/</guid>
       <description>Legacy System Revamp at 50Hertz&#xD;Link to heading&#xD;At 50Hertz, the transmission system operator, I am involved in transforming a legacy accounting platform that managed critical energy settlement processes. Their system is 90s code, largely undocumented, and based on outdated Java, posing several challenges:&#xA;The system was a black box—users had no visibility into the processes and calculations, implemented in the 30+ years of usage Team inefficiencies and hierarchical structures hindered progress, a poor feedback process and resentment towards the lead of the team Solution: We introduced automated process modeling using Neo4J, which allowed us to visualize previously hidden database relationships.</description>
     </item>
     <item>
       <title>Contact Me</title>
-      <link>https://www.pivotmario.tech/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.pivotmario.tech/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>Contact Me&#xD;Link to heading&#xD;Please fill out the form below to get in touch with me.</description>
     </item>
     <item>
       <title>Resume</title>
-      <link>https://www.pivotmario.tech/resume/</link>
+      <link>http://localhost:1313/resume/</link>
       <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.pivotmario.tech/resume/</guid>
+      <guid>http://localhost:1313/resume/</guid>
       <description>Mario André&amp;rsquo;s Resume&#xD;Link to heading&#xD;Summary&#xD;Link to heading&#xD;Business Analyst with extensive experience in helping product owners by detailing out tickets and tasks. Skilled in project management, data analysis, and communication.&#xA;Experience&#xD;Link to heading&#xD;Senior Business Analyst&#xD;Link to heading&#xD;Company Name, Location&#xA;Dates of Employment&#xA;Detailed out tasks and tickets for product owners. Managed project timelines and deliverables. Conducted data analysis to support business decisions. Business Analyst&#xD;Link to heading&#xD;Company Name, Location</description>
     </item>
   </channel>
