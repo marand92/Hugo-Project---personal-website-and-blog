@@ -42,19 +42,30 @@ We redefined the system to ensure a high likelihood of factory entry within a bo
 - **15-minute reduction** in lead time per truck.
 - Increased transparency and fairness in truck handling, with a reward system for punctuality.
 
-This project, to me, demonstrated the critical difference between simply implementing software and **leveraging the full potential** implementing an actually smart customization to the standard to deliver tangible operational improvements.
-
+This project, to me, demonstrated the crucial difference between simply implementing a software tool, and **unlocking its full potential - by deeply understanding the needs of on-site users**, thoughtfully designing around those processes, and smartly integrating other systems through APIs to create a solution that is not just functional but inheritely performance-enhancing.
 ---
 
 
 ## SAP Implementation at LEIPA Group
 
-As the subproject manager for the **logistics and warehousing component** of the SAP Procurement implementation at LEIPA Group's Schwedt factory, my role was crucial in ensuring the project's success. The implementation followed a structured approach:
+After starting at LEIPA Group as a junior process engineer, I gradually took on responsibility in various smallish and supporting-projects. When a senior project manager unexpectedly left the company mid-project, I was asked if I wanted to step into the role of subproject manager for the logistics and warehousing component of the SAP Procurement implementation at the Schwedt factory.
 
-1. **Blueprinting Phase**: We conducted a comprehensive **legacy analysis** to assess the wide range of tools and historically developed processes in use. Many of these legacy systems were inefficient and uncoordinated, making this step critical for shaping a streamlined solution.
-   
-2. **Customizing Phase**: We identified several **quick-win improvements**. Notably, we enhanced **automated reporting** for key ramp shift managers, providing them with real-time data for more informed decision-making. Additionally, we developed a **three-day procurement forecasting tool** to better predict production and material capacity needs. This tool allowed for a better coordination across departments, eliminating misaligned forecasts.
-   
-**Key Achievement**: Despite the resignation of the previous subproject manager, who believed meeting the deadline wasn´t anymore impossible, I took over and led the team consiting of five internal stakeholders, three external consultants and two SAP programmers to not only meet the deadline but also achieve an **almost smooth Go-Live phase** without a high-impact production stop. This accomplishment showcased the strength of our collaboration.
+**Initial Issues**:
+The project faced several challenges that needed to be addressed before a successful SAP rollout could take place:
+- A **range of legacy tools and homegrown processes** were in use, some of which were inefficient and fragmented, most of them undocumented.
+- **Lack of standardization** made it difficult to align procurement, production, and logistics planning.
+- **Cross-department communication was weak**, and existing workflows were not well understood or consistently applied.
+- Poor data visibility and limited reporting capabilities hindered day-to-day decision-making, especially for shift and production managers.
+- The sudden departure of the previous subproject manager put the timeline at risk, with a potential delay of up to two years for the factory-wide implementation.
+
+1. **Blueprinting Phase**:
+Together with a cross-functional team of five internal stakeholders, three external consultants, and two SAP programmers, I guided the project through its remaining phases.
+1. A blueprinting Phase: We carried out a legacy system analysis, identifying pain points and mapping operational needs.
+2. Customizing Phase: We focused on quick-win improvements to generate early value. Key features included automated reporting for ramp shift managers, giving them real-time insights, and a three-day procurement forecasting tool that significantly improved coordination between production, purchasing, and logistics.
+      
+**Outcome**:
+The project successfully **met its original deadline**, avoiding the anticipated delay. Even more importantly, the **Go-Live phase ran almost entirely without high-impact disruptions to production**. The system replaced outdated tools and was **customized somewhat to actual operational needs**.
+
+This experience was a early turning point after spending half a century in educational institutions: I realized that stepping up, working under high-impact real-life conditions while staying reliable in chaotic moments is a core strengths of mine. It also showed me that deep collaboration within a team can make all the difference - I might be somewhat opinionated but I think this is the main point the previous manager in the project fails himself on, he had not created a functional environment for a team to collaborate within. And finally, I proved to myself that I was more than ready to take on responsibility.
 
 ---
