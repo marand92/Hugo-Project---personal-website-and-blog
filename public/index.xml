@@ -13,7 +13,7 @@
       <link>http://localhost:1313/track-record/</link>
       <pubDate>Wed, 04 Sep 2024 12:00:00 +0200</pubDate>
       <guid>http://localhost:1313/track-record/</guid>
-      <description>50Hertz – Building the Next-Gen Settlement Tool&#xD;Link to heading&#xD;At 50Hertz, one of Germany’s transmission system operators, I’m part of a team building a modern accounting tool to gradually replace an outdated legacy system that’s been running core energy settlement processes for over 30 years. The existing platform is still in operation, maintained by a separate team, but after an in-depth analysis of the codebase and team structure, we concluded that refactoring the legacy system wasn’t viable — poor code quality, outdated tech, and dysfunctional team dynamics made it a dead end.</description>
+      <description>50Hertz – Building the Next-Gen Settlement Tool&#xD;Link to heading&#xD;At 50Hertz, one of Germany’s four energy-grid-transmission system operators, I’m part of a team building a modern accounting tool to gradually replace an outdated legacy system that’s been running core energy settlement processes for over 30 years. The existing platform is still in operation, maintained by a separate team, but after an in-depth analysis of the codebase and team structure, we concluded that refactoring the legacy system wasn’t viable — poor code quality, an outdated tech-stack, and dysfunctional team dynamics made it a dead end.</description>
     </item>
     <item>
       <title>Contact Me</title>
